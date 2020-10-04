@@ -1,0 +1,22 @@
+.Route {
+    float: left;
+    margin: 0.7rem;
+    text-decoration: none;
+    font-size: 18px;
+    color: rgb(133, 133, 120);
+    border-bottom: 1px solid transparent;
+    font-weight: 500;
+}
+
+.Route:hover {
+    text-decoration: none;
+    color: rgb(133, 133, 120);
+}
+
+.Router {
+    border-bottom: 1px solid rgb(212, 212, 211);
+    width: 100%;
+    height: 2.9rem;
+    float: left;
+    margin: 0.5rem;
+}
