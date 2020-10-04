@@ -49,9 +49,9 @@
 }
 
 .ReactTable .-pagination .-btn {
-    -webkit-appearance: none;
+    /* -webkit-appearance: none;
     -moz-appearance: none;
-    appearance: none;
+    appearance: none; */
     display: block;
     width: 45%;
     height: 100%;
@@ -64,6 +64,7 @@
     transition: all .1s ease;
     cursor: pointer;
     outline: none;
+    background-color: none;
 }
 
 .ReactTable .-pagination {
