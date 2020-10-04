@@ -1,4 +1,4 @@
-# live demo at : [DEMO](http://smarte.surge.sh/)
+# live demo at : [DEMO](http://steadfast-part.surge.sh/)
 
 ## Available Scripts
 
